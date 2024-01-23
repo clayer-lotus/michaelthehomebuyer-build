@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Canadian Smart Savings Service Area</name>
+    <description/>
+    <NetworkLink>
+      <name>Canadian Smart Savings Service Area</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/kml?forcekml=1&mid=1LYhtKj4kq_Uix_VTi3d_S-W3GudiKhw]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
